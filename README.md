@@ -3,6 +3,8 @@ Sistema completo de CI/CD usando docker + kubernetes + slack para controle e atu
 
 ## EXPLICAÇÃO DE CADA ETAPA
 
+### Para que voce consiga entender esse projeto, deve-se ter o minimo de conhecimento com o jenkins e estar procurando uma fonte de pesquisa, tendo em vista o vasto conteudo proposto nesse artigo
+
 ## VERIFICANDO A EXISTENCIA DO COMANDO KUBECTL
   Criamos um steps node porque nele conseguimos criar pipelines antes de uma pipeline padrão e nele conseguimos validar comandos ou plugins que precisam iniciar com o projetos: 
   
