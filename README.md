@@ -1,4 +1,4 @@
-# PIPELINE-JENKINS-KUBERNETES-DOCKER
+# PIPELINE-JENKINS-SONARQUBE
 Sistema completo de CI/CD usando sonarqube + slack para controle e atualização do seu projeto
 
 ## EXPLICAÇÃO DE CADA ETAPA
