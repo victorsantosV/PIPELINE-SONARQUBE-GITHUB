@@ -1,5 +1,5 @@
 # PIPELINE-JENKINS-KUBERNETES-DOCKER
-Sistema completo de CI/CD usando docker + kubernetes + slack para controle e atualização do seu projeto
+Sistema completo de CI/CD usando sonarqube + slack para controle e atualização do seu projeto
 
 ## EXPLICAÇÃO DE CADA ETAPA
 
